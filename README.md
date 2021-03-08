@@ -1,2 +1,2 @@
 # Predicting-NYC-Taxi-Destinations
-Exploratory data analysis and predicting taxi destinations with logistic regression and random forest
+A comprehensive exploratory data analysis for predicting taxi destinations with logistic regression.
